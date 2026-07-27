@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-r7yi1p.pulaucuan.online/sitemap.xml
